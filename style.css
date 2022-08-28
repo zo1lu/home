@@ -5,6 +5,7 @@ body{
 section{
   display:flex;
   flex-direction: column;
+  align-item: center;
 }
 .form{
   width:60vw;
