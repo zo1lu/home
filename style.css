@@ -1,5 +1,7 @@
 body{
-  background-color:rgb(253, 213, 213);
+  //background-color:rgb(253, 213, 213);
+  background: rgb(245,213,243);
+  background: linear-gradient(90deg, rgba(245,213,243,1) 7%, rgba(186,187,242,1) 73%, rgba(165,168,250,1) 100%);
 }
 
 section{
