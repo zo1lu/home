@@ -1,7 +1,19 @@
+/* font-family: 'Noto Sans TC', sans-serif;
+font-family: 'Playfair Display', serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Mono', monospace; */
+
+*{
+  padding:0px;
+  margin:0px;
+  box-sizing: border-box;
+  font-family: 'Noto Sans TC', sans-serif;
+}
+
 body{
   //background-color:rgb(253, 213, 213);
   background: rgb(245,213,243);
-  background: linear-gradient(90deg, rgba(245,213,243,1) 7%, rgba(186,187,242,1) 73%, rgba(165,168,250,1) 100%);
+  background: linear-gradient(0deg, rgba(245,213,243,1) 7%, rgba(186,187,242,1) 73%, rgba(165,168,250,1) 100%);
 }
 
 section{
@@ -12,12 +24,19 @@ section{
 .form{
   width:60vw;
   padding:20px;
+  background-color:rgba(0,0,0,0.6);
+}
+h1{
+  font-size:2rem;
+  font-weight:700;
 }
 
 h3{
+  font-size:1.5rem;
   padding:5px 10px;
 }
 
 p{
+  font-size:1rem;
   padding:5px 10px;
 }
