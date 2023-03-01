@@ -9,7 +9,7 @@ fetch(src).then(function(response){
   let data
   for(i=0;i<result.length;i++){
     const question = data[i].question;
-    const answer = data[i].answer;
+    const answer = data[i].content;
     const div = document.createElement("div");
     div.className = "form";
     const h3 = document.createElement("h3");
