@@ -12,7 +12,7 @@ font-family: 'Roboto Mono', monospace; */
 
 body{
   //background-color:rgb(253, 213, 213);
-  background: rgb(245,213,243);
+  background: rgb(62,31,11);
   background: linear-gradient(0deg, rgba(62,31,11,1) -25%, rgba(214,175,141,1) 5%, rgba(255,242,215,1) 100%);
 }
 
