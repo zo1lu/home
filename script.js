@@ -1,11 +1,19 @@
 
 let formSection = document.getElementById("form-section");
 let src = "https://zo1lu.github.io/home/data.json";
-fetch(src).then(function(response){
-  //console.log(response)
-  return response.json();
-}).then(function(result){
-  console.log("data:",result);
+
+fetch("http://example.com/movies.json")
+  .then((response) => response.json())
+  .then((data) => console.log(data));
+
+
+// fetch(src)
+//   .then(function(response){
+//   //console.log(response)
+//   return response.json;
+// })
+//   .then(function(result){
+//   console.log("data:",result);
 //   let data
 //   for(i=0;i<result.length;i++){
 //     const question = data[i].question;
@@ -23,4 +31,4 @@ fetch(src).then(function(response){
 //     div.appendChild(p);
 //     formSection.appendChild(div);
 // }
-})
+// })
