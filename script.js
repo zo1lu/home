@@ -9,7 +9,7 @@ let src = "https://zo1lu.github.io/home/data.json";
 fetch(src)
   .then(function(response){
   //console.log(response)
-  return response.json;
+  return response.json();
 })
   .then(function(result){
   console.log("data:",result);
