@@ -8,7 +8,7 @@ fetch(src)
 })
   .then(function(result){
   console.log("data:",result);
-  let data
+  let data = result;
   for(i=0;i<result.length;i++){
     const question = data[i].question;
     const answer = data[i].content;
