@@ -2,7 +2,7 @@
 let formSection = document.getElementById("form-section");
 let src = "https://zo1lu.github.io/home/data.json";
 fetch('https://dummyjson.com/products')
-.then(res => res.json())
+.then(res => res)
 .then(console.log);
 
 
