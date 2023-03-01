@@ -1,10 +1,9 @@
 
 let formSection = document.getElementById("form-section");
 let src = "https://zo1lu.github.io/home/data.json";
-
-fetch("http://example.com/movies.json")
+fetch(src)
   .then((response) => response.json())
-  .then((data) => console.log(data));
+  .then((data) => console.log(data))
 
 
 // fetch(src)
