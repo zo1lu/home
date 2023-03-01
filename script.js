@@ -2,7 +2,7 @@
 let formSection = document.getElementById("form-section");
 let src = "https://zo1lu.github.io/home/data.json";
 fetch(src).then(function(response){
-  console.log(response.json())
+  
   return response.json()
 }).then(function(result){
   console.log("data:",result);
