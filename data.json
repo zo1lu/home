@@ -7,31 +7,31 @@
   {
   "id":2,
   "question":"Q2:為了成為軟體工程師，曾做過什麼努力?若有具體專案作品請分享給我們。",
-  "content":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+  "content":"1.完成udemy全端網頁工程師的課程。\n2.完成FreeCodeCamp上前端及後端的證書課程。\n/Responsive Web Design Certification\n/JavaScript Algorithms And Data Structure Certification\n/Front End Development Libraries Certification\n/Back End development and APIs Certification\n3.架設個人網頁，並部署上線(網站內容部分為虛構)>>https://mengchinlu.info/"
   },
   {
   "id":3,
   "question":"Q3:如果參與這個計畫，會怎麼安排學習時間?",
-  "content":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+  "content":"目前工作剛滿一年多，若順利加入we help的訓練計畫，會離職全職加入訓練計畫。\n依照每週規定進度，規畫一週六天，早上九點到下午六點的學習工作進度。晚上的時間跟一週的最後一天當作review跟緩衝時間。"
   },
   {
   "id":4,
   "question":"Q4:是否有想要加入的軟體公司?為什麼想加入該公司?",
-  "content":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+  "content":"想要加入”PicCollage”，這間公司的主要產品是自由創造及分享照片的應用程式。\n轉職web工程師的其中一個原因也是因為想要可以創造新的數位產品的能力，因此想要進入這樣的公司參與開發產品的流程，提升相關技術能力。"
   },
   {
   "id":5,
   "question":"Q5:請描述一件讓你產生明顯負面情緒的事情，你如何處理該情緒？?",
-  "content":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+  "content":"當很多事情需要完成時會很焦慮，包括擔心做得不夠好或是無法準時完成。\n雖然很焦慮，但是也會告訴自己開始做就對了!\n列出要完成的任務細項，接著會跟主管討論任務重要性，然後依照緊急程度排列一下優先順序，最後告訴自己“開始做就對了！”"
   },
   {
   "id":6,
   "question":"Q6:關於這份申請網頁，請分享一個開發時的技術心得。",
-  "content":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+  "content":"去年原本就打算申請，但後來因為家裡的一些因素分身乏術，就把做好的網站擱置了。\n這次再度打開，想著要把data跟html檔案分開，使用javascript讀取數據。一開始跟著教學影片的步驟，想說應該很快就可以完成了，但是沒想到一直沒辦法在網頁上顯示出來，所以一直在開發人員頁面中console.log()，試圖找出哪裡出了問題。一開始發現根本沒有fetch到資料，但比對了我的跟教學影片裡短短幾行的程式碼，看不出哪裡出了錯誤，折騰許久，才發現是json data的格式沒有加入” ”,導致讀取不到。\n沒想到小小的一個差異，竟然耗費比原本預期更長的時間，以後需要更加注意細節！"
   },
   {
   "id":7,
   "question":"Q7:其他想要對我們說的事情?",
-  "content":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+  "content":"希望有機會可以加入訓練營，跟同伴們一起變更強！"
   }
 ]
